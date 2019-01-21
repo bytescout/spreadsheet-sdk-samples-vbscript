@@ -1,13 +1,13 @@
 ## Index of source code examples:
 
-\Add Images
-\Barcode from Excel
+\Add Images to spreadsheet
 \Change Cell Background Color
 \Change Column Height
 \Change Row Height
-\CSV to XLS
+\convert CSV to XLS
+\create Barcode from Excel
+\create simple spreadsheet
 \Export To HTML
-\Hello World
 \Merge Cells and Set Alignment
-\Rich Text Formatting
 \Save As PDF
+\Use Rich Text Formatting
