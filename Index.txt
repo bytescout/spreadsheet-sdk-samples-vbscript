@@ -1,12 +1,12 @@
 ## Index of source code examples:
 
-\Add Images to spreadsheet
+\Add Images to Spreadsheet
 \Change Cell Background Color
 \Change Column Height
 \Change Row Height
-\convert CSV to XLS
-\create Barcode from Excel
-\create simple spreadsheet
+\Convert CSV to XLS
+\Create Barcode from Excel
+\Create Simple Spreadsheet
 \Export To HTML
 \Merge Cells and Set Alignment
 \Save As PDF
