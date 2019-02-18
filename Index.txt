@@ -5,6 +5,7 @@
 \Change Column Height
 \Change Row Height
 \Convert CSV to XLS
+\Copy Data Between Spreadsheets
 \Create Barcode from Excel
 \Create Simple Spreadsheet
 \Export To HTML
